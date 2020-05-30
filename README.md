@@ -1,2 +1,4 @@
 # Twitch.tv-Metrics-Analysis
-DS3000 Final Project
+
+Scraping data from twitchtracker and processing the data to create 
+Twitch.tv predictions
